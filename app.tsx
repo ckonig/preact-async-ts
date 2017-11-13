@@ -1,6 +1,6 @@
 import { h, render, Component } from 'preact';
 import { Router, RouterOnChangeArgs } from 'preact-router';
-import { AsyncRoute } from 'preact-async-route';
+import AsyncRoute from 'preact-async-route';
 import Home from './home';
 import NotAsync from './notasync';
 

@@ -2,8 +2,6 @@
 
 Demo of preact AsyncRoute with TypeScript
 
-Status: not working 😢
-
 Let’s get started…
 
 ```sh
