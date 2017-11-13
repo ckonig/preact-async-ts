@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "sourceMap": true,
+    "module": "esnext",
+    "jsx": "react",
+    "jsxFactory": "h",
+    "lib": ["dom", "es2015"],
+    "moduleResolution": "node",
+    "target": "es5"
+  },
+  "include": ["*.ts", "*.tsx"]
+}
