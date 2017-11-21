@@ -6,7 +6,6 @@ import NotAsync from './notasync';
 
 export default class App extends Component<{}, {}> {
   async getAsync() {
-    console.log('getting async...');
     const module = await import(/* webpackChunkName: "async" */ './async');
     return module.default;
   }
