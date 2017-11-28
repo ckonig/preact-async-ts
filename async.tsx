@@ -9,6 +9,9 @@ export default class Async extends Component<{}, {}> {
     return (
       <main>
         Lazily loading is my jam. <a href="/">Back.</a>
+        <div>
+          <a href="?thing=foo">Click me!</a>
+        </div>
       </main>
     );
   }

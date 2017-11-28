@@ -2,7 +2,7 @@
   "scripts": {
     "watch": "webpack --watch",
     "build": "webpack",
-    "start": "http-server dist"
+    "start": "go run static.go"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.17",
