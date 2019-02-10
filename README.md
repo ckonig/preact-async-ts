@@ -1,6 +1,6 @@
 # preact-async-ts
 
-Demo of preact AsyncRoute with TypeScript
+Demo of preact AsyncRoute with TypeScript and Babel
 
 Let’s get started…
 
